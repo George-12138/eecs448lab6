@@ -10,7 +10,7 @@ class Test
   private:
     Queue my_Queue1, my_Queue2, my_Queue3;
   public:
-	   Test();
+	Test();
      ~Test();
      void queueTesterSet();
 
